@@ -2,7 +2,7 @@
 //const tinderUser=new Object()
 
 //object literals
-/*
+
 const mySym=Symbol("key1")
 
 const JsUser={
@@ -76,7 +76,7 @@ console.log(user[1].email)
 console.log(Object.keys(tinderUser))//keys & values are stored as array in objects
 console.log(Object.values(tinderUser))
 
-*/
+
 const course={
     cousename:"JS in Hindi",
     price:999,
